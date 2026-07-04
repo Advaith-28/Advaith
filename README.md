@@ -86,5 +86,7 @@ To create impactful software solutions that make technology smarter, faster, and
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Advaith-28&show_icons=true&theme=tokyonight)
 ### ⭐ "Code. Learn. Build. Repeat."
