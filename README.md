@@ -86,5 +86,13 @@ To create impactful software solutions that make technology smarter, faster, and
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Advaith-28&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Advaith-28&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Advaith%20S%20Vinod&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20ML%20Developer%20|%20Software%20Engineer&descAlignY=60"/>
+</p>
 ### ⭐ "Code. Learn. Build. Repeat."
